@@ -1,0 +1,7 @@
+Student No.: 9999
+Full Name: Karl Daniel P. Petallo
+Program: BSIT
+Age: 19
+Gender: male
+Birthday: 2005-11-15
+Contact No.: 9999073401
